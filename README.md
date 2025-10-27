@@ -77,5 +77,5 @@ IT 헬프데스크 2년 및 시스템 엔지니어 3년 총 5년간 근무하며
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views"/>
+- 0 -
 </p>
